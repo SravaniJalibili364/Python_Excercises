@@ -1,2 +1,0 @@
-# Basic programs on strings
- 

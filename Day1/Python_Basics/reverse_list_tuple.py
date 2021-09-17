@@ -1,4 +1,6 @@
-#Prompt user for first, last names and print them in reverse order.
+'''Prompt user for first, last names and print them in reverse order.'''
+
+
 def reverse_string(Full_name):                 # Now reverse_string function is for converting list to string
     full_name_reverse = ""                     # Now empty variable taking for storing the variable
     for letter in Full_name:                   # using for loop we are using iterating through the list

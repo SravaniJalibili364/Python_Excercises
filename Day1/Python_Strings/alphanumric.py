@@ -1,6 +1,6 @@
 
+Input= input()
 while(True):
-    Input= input()
     if(Input=="exit"):
         break
     elif Input.isnumeric():
