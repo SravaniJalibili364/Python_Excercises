@@ -1,5 +1,7 @@
+'''Parse string as int, float'''
+
+def int_float(n):
+    print("Integer:",int(n),", Float value:",float(n))
+
 n = input()
-n_int = int(n)
-print(n_int)
-n_float = float(n)
-print(n_float)
+int_float(n)

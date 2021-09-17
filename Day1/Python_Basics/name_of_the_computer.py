@@ -5,5 +5,4 @@ import os
 
 #using uname will get the information about the currently running operating system
 pc_name = os.uname()
-#It will print username of the system
 print(pc_name)

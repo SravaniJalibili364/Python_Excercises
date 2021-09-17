@@ -3,9 +3,7 @@
 
 #importing pi value from math module and using alias we name as pi_value
 from math import pi as pi_value
-#Taking the radius of the sphere from the user
 radius_of_the_sphere = int(input())
 #Now calculating the volume of the volume of the sphere using the formulae
 Volume_of_the_sphere = round((4/3)*pi_value*((radius_of_the_sphere)**3),2)
-#it prints the volume of the sphere
 print(Volume_of_the_sphere)
